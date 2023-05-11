@@ -1,0 +1,10 @@
+InternalClassType: Source
+Coordinate3D: [2,-5,0]
+Origin: 88c1cb20-7c64-4620-8199-f1001351c566
+RandomSeed: 100
+UUID: 716a9f17-7c91-4ef0-9aae-c13c295b832f
+$Successors:
+-
+ $Succ: f990f410-a03c-4871-8ac7-ad362a57c596
+ Origin: 6fad5639-18d0-480b-b126-63e385f5b071
+ UUID: 6ab7cb88-ee58-4fa8-84af-326fe39f65f0
