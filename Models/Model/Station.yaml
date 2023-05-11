@@ -1,6 +1,7 @@
 InternalClassType: Station
 Coordinate3D: [4,-5,0]
 Origin: acb238c0-e437-4258-a938-51f9177c18ec
+ProcTime: 30
 RandomSeed: 101
 UUID: f990f410-a03c-4871-8ac7-ad362a57c596
 $Successors:
